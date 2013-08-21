@@ -6,7 +6,6 @@
 from bs4 import BeautifulSoup
 import tarfile, shutil, glob, os, re, sys, time
 
-<<<<<<< HEAD
 # Try for Python 3.3
 try:
 	import urllib.request
@@ -16,8 +15,6 @@ except ImportError:
 	import urllib
 	fetch = urllib
 
-=======
->>>>>>> 57385db4d589704ee1ab233a1100e31627ca16d6
 # Work/Target directories & download mode
 args = sys.argv
 workDir = r'' + args[1]

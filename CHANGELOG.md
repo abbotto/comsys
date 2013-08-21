@@ -3,7 +3,7 @@
 # Added more efficiency by downloading, transferring & compressing only the files that have been modified
 # Added compatibility with Python 3.3
 # Previously, the URL array was looped for each file operation (3+ times), now its only looped once.
-£ Added CHANGELOG.md
+# Added CHANGELOG.md
 # ---------------------------------------------------------------
 
 # CHANGELOG V0.01

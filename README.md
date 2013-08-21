@@ -51,22 +51,21 @@
 # 40. WireShark
 # ---------------------------------------------------------------------------------------------
 
-Bug tracker
+# Bug tracker
 # ---------------------------------------------------------------
-Have a bug? Please create an issue here on GitHub!<br>
-URL: https://github.com/o0110o/comsys/issues
+# Have a bug? Please create an issue here on GitHub!<br>
+# URL: https://github.com/o0110o/comsys/issues
 # ---------------------------------------------------------------
 
-Copyright & License
+# Copyright & License
 # ---------------------------------------------------------------
-Fetch the latest versions of reliable admin & maintenance software for various platforms.<br>
-URL: http://o0110o.github.com/comsys
-Copyright 2013, Jared Abbott (http://github.com/o0110o)<br>
-First Upload: 18/08/13<br>
-Licensed under The MIT License<br>
-Redistributions of files must retain the above copyright notices.<br>
-@copyright     Copyright 2013, Jared Abbott (http://github.com/o0110o)<br>
-@link          http://github/o0110o/comsys<br>
-@package       ComSys Tools 0.01a<br>
-@since         ComSys Tools 0.01a<br>
-@license       MIT License (http://www.opensource.org/licenses/mit-license.php)<br>
+# Fetch the latest versions of reliable admin & maintenance software for various platforms.<br>
+# URL: http://o0110o.github.com/comsys
+# Copyright 2013, Jared Abbott (http://github.com/o0110o)<br>
+# Licensed under The MIT License<br>
+# Redistributions of files must retain the above copyright notices.<br>
+# @copyright     Copyright 2013, Jared Abbott (http://github.com/o0110o)<br>
+# @link          http://github/o0110o/comsys<br>
+# @package       ComSys Tools 0.01a<br>
+# @since         ComSys Tools 0.01<br>
+# @license       MIT License (http://www.opensource.org/licenses/mit-license.php)<br>

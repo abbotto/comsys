@@ -1,3 +1,12 @@
+# CHANGELOG V0.01b
+# ---------------------------------------------------------------
+# Added better file-type capability; can now fetch and store virtually any file type
+# Decreased overall footprint
+# Improved comments
+# Cleaned up the codebase
+# Fixed "slashes" in Windows path names that were causing bugs
+# ---------------------------------------------------------------
+
 # CHANGELOG V0.01a
 # ---------------------------------------------------------------
 # Added more efficiency by downloading, transferring & compressing only the files that have been modified

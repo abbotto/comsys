@@ -1,22 +1,14 @@
 /**
  *Python
  *ComSys Tools : Fetch the latest versions of reliable admin & maintenance software for various platforms. * Copyright 2013, Jared Abbott (http://github.com/o0110o)
- *20/08/13
+ *21/08/13
  *
  * Licensed under The MIT License
  * Redistributions of files must retain the above copyright notices.
  *
  * @copyright     Copyright 2013, Jared Abbott (http://github.com/o0110o)
  * @link          http://github/o0110o/comsys
-<<<<<<< HEAD
-<<<<<<< HEAD
- * @package       ComSys Tools v0.01a
-=======
- * @package       ComSys Tools v0.01
->>>>>>> 57385db4d589704ee1ab233a1100e31627ca16d6
-=======
- * @package       ComSys Tools v0.01
->>>>>>> 57385db4d589704ee1ab233a1100e31627ca16d6
+ * @package       ComSys Tools v0.01b
  * @since         ComSys Tools v0.01
  * @license       MIT License (http://www.opensource.org/licenses/mit-license.php)
  */

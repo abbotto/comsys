@@ -1,4 +1,4 @@
-# COMputer SYStem Tools V0.01b
+# COMputer SYStem Tools V0.01
 # ---------------------------------------------------------------
 # Fetch the latest versions of reliable admin & maintenance software for various platforms.<br>
 # URL: http://o0110o.github.com/comsys
@@ -66,6 +66,6 @@
 # Redistributions of files must retain the above copyright notices.<br>
 # @copyright     Copyright 2013, Jared Abbott (http://github.com/o0110o)<br>
 # @link          http://github/o0110o/comsys<br>
-# @package       ComSys Tools 0.01b<br>
+# @package       ComSys Tools 0.01<br>
 # @since         ComSys Tools 0.01<br>
 # @license       MIT License (http://www.opensource.org/licenses/mit-license.php)<br>
